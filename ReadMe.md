@@ -1,5 +1,5 @@
 # 💫 About Me:
-I'm currently working on Ministerio de Hacienda.<br>I'm looking to colaborate with my partners to reach every task, using the best practice.<br>I'm currently learning react and docker<br>
+My name is Pedo jairo Mateo.<br>I'm working at Ministerio de Hacienda. there I'm improving internal system and implementing new features as well <br>I'm looking to colaborate with my partners to reach every task, using the best practice.<br>I'm currently learning react and docker<br>
 
 
 ## 🌐 Socials:
